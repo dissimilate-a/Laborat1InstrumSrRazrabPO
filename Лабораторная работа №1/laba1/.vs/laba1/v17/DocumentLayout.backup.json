@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21161\\laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24A255A-DF2E-4A14-ADA1-77C9D660CF84}|laba1.vcxproj|D:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21161\\laba1\\laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D24A255A-DF2E-4A14-ADA1-77C9D660CF84}|laba1.vcxproj|solutionrelative:laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba1.cpp",
+              "DocumentMoniker": "D:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21161\\laba1\\laba1.cpp",
+              "RelativeDocumentMoniker": "laba1.cpp",
+              "ToolTip": "D:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21161\\laba1\\laba1.cpp*",
+              "RelativeToolTip": "laba1.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T09:35:41.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
