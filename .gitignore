@@ -2,3 +2,10 @@
 *.tmp
 *.temp
 *.bak
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.ipch
