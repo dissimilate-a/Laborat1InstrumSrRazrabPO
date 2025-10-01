@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21162\\Laboratornaya2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64139B11-9973-4238-AE52-F18443C176E6}|Laboratornaya2.vcxproj|E:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21162\\Laboratornaya2\\Laboratornaya2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64139B11-9973-4238-AE52-F18443C176E6}|Laboratornaya2.vcxproj|solutionrelative:Laboratornaya2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laboratornaya2.cpp",
+              "DocumentMoniker": "E:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21162\\Laboratornaya2\\Laboratornaya2.cpp",
+              "RelativeDocumentMoniker": "Laboratornaya2.cpp",
+              "ToolTip": "E:\\4 \u041A\u0423\u0420\u0421\\\u0421\u0438\u0441\u0442 \u043F\u0440\u043E\u0433\u0440\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21162\\Laboratornaya2\\Laboratornaya2.cpp",
+              "RelativeToolTip": "Laboratornaya2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T14:36:05.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
